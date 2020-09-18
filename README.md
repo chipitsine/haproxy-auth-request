@@ -1,4 +1,4 @@
-# auth-request ![Test](https://github.com/TimWolla/haproxy-auth-request/workflows/Test/badge.svg)
+# auth-request ![Test](https://github.com/TimWolla/haproxy-auth-request/workflows/Test/badge.svg)  
 
 auth-request allows you to add access control to your HTTP services based on a
 subrequest to a configured HAProxy backend. The workings of this Lua script are
